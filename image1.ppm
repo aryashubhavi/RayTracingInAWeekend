@@ -1,0 +1,13 @@
+P3
+# The P3 means colors are in ASCII, then 3 columns and 2 rows,
+# then 255 for max color, then RGB triplets
+
+3 2
+255
+255 0 0 0 255 0 0 0 255
+255 255 0 255 255 255 0 0 0
+
+#  the first row represents a red square, a green square, 
+# and a blue square, while the second row represents a 
+# yellow square, a white square, and a black square. 
+# The RGB values for each square are listed in the order mentioned.
